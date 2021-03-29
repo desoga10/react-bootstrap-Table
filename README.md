@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The is the link to the youtube version of this project [React Bootstrap Tutorial- Rendering Data Dynamically using React](https://github.com/facebook/create-react-app).
+The is the link to the youtube version of this project [React Bootstrap Tutorial- Rendering Data Dynamically using React](https://www.youtube.com/watch?v=XN8YhoGi-a4&t=1s).
 
 ## Available Scripts
 
